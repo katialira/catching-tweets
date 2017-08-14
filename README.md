@@ -27,3 +27,6 @@ pip install -r requirements.txt
 ```
 
 Done.
+
+### Slides
+https://drive.google.com/file/d/0B7ie1lt4cpsPcFBlbW4ya18zUjg/view?usp=sharing
